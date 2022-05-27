@@ -6,7 +6,7 @@ Student programming and lover of games, music and technology. 💻🎼🕹️�
 
 📢 Courses and studies.📚
 
-- 📖 Currently studying back-end development at university.
+- 📖 Currently studying back-end development at university [UNOPAR](https://www.unopar.com.br/curso/desenvolvimento-back-end-tecnologo/).
 - 📖 Learning English and Spanish.
 
 - 📕 [Good practices in relational banks.](https://www.linkedin.com/posts/eduardo-augusto-41436b233_boas-pr%C3%A1ticas-em-bancos-relacionais-activity-6918533028348624896-HXmL?utm_source=linkedin_share&utm_medium=member_desktop_web)
