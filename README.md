@@ -1,6 +1,11 @@
-### Hi there 👋 
-✍️ I’m currently learning.
+# Hi, I'm Eduardo Augusto (💻☕)
 
+📢 **[GitHub Star](https://stars.github.com/nominate)**
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-41436b233/) 
+
+
+Programming student and technology lover. 💻💖
 <!--
 **eduardoaoc/eduardoaoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
